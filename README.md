@@ -31,7 +31,7 @@ The analysis is built on a robust relational dataset encompassing daily e-commer
 
 * **Refunds:** Financial tracking for returned orders
 
-**Can reach Data Dictionary**: [Here]
+**Can reach Data Dictionary**: [[Here](https://docs.google.com/document/d/1LhJvdCeXVy8_BpO_frVLdr5vJU7Nk2ma/edit#heading=h.nc0rpjgf2uoy)]
 
 **The Tech Stack**
 
